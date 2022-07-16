@@ -1,0 +1,7 @@
+LICENSE.txt
+README.md
+setup.py
+zextractror.egg-info/PKG-INFO
+zextractror.egg-info/SOURCES.txt
+zextractror.egg-info/dependency_links.txt
+zextractror.egg-info/top_level.txt
